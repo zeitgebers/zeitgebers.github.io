@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="https://avatars2.githubusercontent.com/u/2309403?s=300">
+<img class="profile-picture" src="https://avatars3.githubusercontent.com/u/55018702?s=300">
 
 # About Me
 ###### Hi! I'm Kelsey. I'm a PhD student at the Adelaide Institute for Sleep Health (AISH) hosted by Flinders University in Adelaide, South Australia.
