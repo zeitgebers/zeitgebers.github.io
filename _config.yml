@@ -1,0 +1,23 @@
+title: kelseybickley.com.au
+author: Kelsey Bickley
+url: "https://kelseybickley.com.au"
+baseurl: "/"
+
+markdown: kramdown
+highlighter: rouge
+
+footer: yes
+footer_url: "https://twitter.com/kelseylbickley"
+footer_text: "@ me on Twitter"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+ - name: "Projects"
+   link: "/projects"
+ - name: "About Me"
+   link: "/about"
+ - name: "Contact"
+   link: "/about#email"
