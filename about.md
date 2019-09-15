@@ -11,9 +11,13 @@ layout: default
 
 My honours work included investigating likely bedtime behaviours in individuals with Delayed Sleep-Wake Phase Disorder (DSWPD) under the supervision of Emeritus Prof. Leon Lack and Dr. Nicole Lovato. My PhD is focused on the impact of the previous nights’ sleep on the daytime performance of individuals with insomnia. My primary focus is investigating the relationship between nocturnal sleep and insomnia sufferers mood and activity participation in the following day using a novel instrument called the Activity, and Sleep Impact Diary (ASID). The aim is use this diary and other assessments to report a more natural and holistic perspective of the daytime experience of insomnia patients.  
 
-## Publications
+## Presentations and Publications
 
-1. Watch this space :)
+1. Thesis Overview Presentation _ College of Education, Psychology, and Social Work (CEPSW), Flinders University - 2017
+2. Re-evaluating the measurement of daytime functioning in insomnia - Developing a New Assessment Tool _ Adelaide Sleep Retreat (ASR) - 2017
+3. Sleep Disorders Talk _ University of the Third Age (U3a) - 2019
+4. Thesis Overview Presentation _ Adelaide Institute for Sleep Health (AISH), Flinders University - 2019
+5. Social Media in Research _ Adelaide Institute for Sleep Health (AISH), Flinders University - 2019
 
 
 ## Email
