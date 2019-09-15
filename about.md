@@ -13,11 +13,18 @@ My honours work included investigating likely bedtime behaviours in individuals 
 
 ## Presentations and Publications
 
-1. Thesis Overview Presentation _ College of Education, Psychology, and Social Work (CEPSW), Flinders University - 2017
-2. Re-evaluating the measurement of daytime functioning in insomnia - Developing a New Assessment Tool _ Adelaide Sleep Retreat (ASR) - 2017
-3. Sleep Disorders Talk _ University of the Third Age (U3a) - 2019
-4. Thesis Overview Presentation _ Adelaide Institute for Sleep Health (AISH), Flinders University - 2019
-5. Social Media in Research _ Adelaide Institute for Sleep Health (AISH), Flinders University - 2019
+1. Likely bedtime behaviours in Delayed Sleep Wake Phase Disorder (DSWPD)
+*Adelaide Sleep Retreat (ASR) - 2015*
+2. Thesis Overview Presentation
+*College of Education, Psychology, and Social Work (CEPSW), Flinders University - 2017*
+3. Re-evaluating the measurement of daytime functioning in insomnia - Developing a New Assessment Tool
+*Adelaide Sleep Retreat (ASR) - 2017*
+4. Sleep Disorders Talk
+*University of the Third Age (U3a) - 2019*
+5. Thesis Overview Presentation
+*Adelaide Institute for Sleep Health (AISH), Flinders University - 2019*
+6. Social Media in Research
+*Adelaide Institute for Sleep Health (AISH), Flinders University - 2019*
 
 
 ## Email
