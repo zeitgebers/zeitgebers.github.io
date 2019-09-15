@@ -11,6 +11,7 @@ layout: default
 
 My honours work included investigating likely bedtime behaviours in individuals with Delayed Sleep-Wake Phase Disorder (DSWPD) under the supervision of Emeritus Prof. Leon Lack and Dr. Nicole Lovato.
 <br>
+<br>
 I am also completing my PhD under Leon and Nicole's supervision.  This work is focused on the impact of the previous nights’ sleep on the daytime performance of individuals with insomnia. My primary focus is investigating the relationship between nocturnal sleep and insomnia sufferers mood and activity participation in the following day using a novel instrument called the Activity, and Sleep Impact Diary (ASID). The aim is use this diary and other assessments to report a more natural and holistic perspective of the daytime experience of insomnia patients.  
 
 ## Presentations and Publications
