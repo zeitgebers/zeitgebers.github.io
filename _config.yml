@@ -8,7 +8,7 @@ highlighter: rouge
 
 footer: yes
 footer_url: "https://twitter.com/kelseylbickley"
-footer_text: "@ me on Twitter"
+footer_text: "Find me on Twitter"
 
 sass:
   style: compressed
