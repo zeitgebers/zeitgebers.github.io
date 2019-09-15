@@ -1,0 +1,83 @@
+@import "vars";
+
+.content {
+  h1 {
+    font-size: 2.8em;
+    font-weight: normal;
+    text-align: center;
+    margin: 8px 0 8px 0;
+  }
+  @media (max-width: 500px) {
+    h1 {
+      font-size: 2.4em;
+    }
+  }
+  h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-bottom: .3em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+  }
+  h6 {
+    color: #646464;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: center;
+    margin: 0 0 32px 0;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  ol {
+    counter-reset: list;
+  }
+  ol > li {
+    list-style-position: none;
+    position: relative;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  ul > li {
+    margin: 5px 0 5px 0;
+  }
+  ul {
+    padding: 0 20px 0 20px;;
+  }
+  ol {
+    padding: 0 30px 0 30px;
+  }
+  ol > li:before {
+    content: "[" counter(list, decimal) "] ";
+    counter-increment: list;
+    position: absolute;
+    left: -30px;
+  }
+  blockquote {
+    //border: 1px solid black;
+    border-left: 5px solid #333333;
+    margin: 20px 0 20px 0;
+    padding: 2px 16px 2px 16px;
+    font-style: italic;
+  }
+  .profile-picture {
+    height: 128px;
+    width: 128px;
+    border-radius: 50%;
+    p & {
+      padding: 0;
+      margin: 0;
+    }
+    @media (max-width: $small-width) {
+      img {
+        margin-top: -5px;
+      }
+    }
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+}
