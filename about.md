@@ -37,21 +37,25 @@ I am also completing my PhD under Leon and Nicole's supervision.  This work is f
 7. Insomnia takes Effort
 <br>
 *Doc Fest, Flinders University - September 2019*
-8. Activity participation to measure functioning in the insomnia population:  Introducing the Activity and Sleep Impact Diary (ASID)
+8. Activity participation to measure functioning in the insomnia population:  
+Introducing the Activity and Sleep Impact Diary (ASID)
+<br>
 *World Sleep Congress 2019, Vancouver, British Columbia, Canada*
 *Sleep DownUnder 2019, Sydney, Australia*
-<br>
 9. Insomnia takes effort:  Introducing the Activity and Sleep Impact Diary (ASID)
-*World Sleep Congress 2019, Vancouver, British Columbia, Canada*
 <br>
+*World Sleep Congress 2019, Vancouver, British Columbia, Canada*
+
 
 ## Awards
 Young Investigator
+<br>
 *Adelaide Sleep Retreat 2017, Adelaide, Australia*
 <br>
 Best Poster Discussion for Insomnia and Sleep Health
-*Sleep DownUnder 2019, Sydney, Australia*
 <br>
+*Sleep DownUnder 2019, Sydney, Australia*
+
 
 ## Email
 
