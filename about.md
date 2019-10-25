@@ -18,13 +18,13 @@ I am also completing my PhD under Leon and Nicole's supervision.  This work is f
 
 1. Likely bedtime behaviours in Delayed Sleep Wake Phase Disorder (DSWPD)
 <br>
-*Adelaide Sleep Retreat (ASR) - 2015*
+*Adelaide Sleep Retreat (ASR), Adelaide, Australia - 2015*
 2. Thesis Overview Presentation
 <br>
 *College of Education, Psychology, and Social Work (CEPSW), Flinders University - 2017*
 3. Re-evaluating the measurement of daytime functioning in insomnia - Developing a New Assessment Tool
 <br>
-*Adelaide Sleep Retreat (ASR) - 2017*
+*Adelaide Sleep Retreat (ASR), Adelaide, Australia - 2017*
 4. Sleep Disorders Talk
 <br>
 *University of the Third Age (U3a) - 2019*
@@ -36,25 +36,27 @@ I am also completing my PhD under Leon and Nicole's supervision.  This work is f
 *Adelaide Institute for Sleep Health (AISH), Flinders University - 2019*
 7. Insomnia takes Effort
 <br>
-*Doc Fest, Flinders University - September 2019*
+*Doc Fest, Flinders University - 2019*
 8. Activity participation to measure functioning in the insomnia population:  
 Introducing the Activity and Sleep Impact Diary (ASID)
 <br>
-*World Sleep Congress 2019, Vancouver, British Columbia, Canada*
-*Sleep DownUnder 2019, Sydney, Australia*
+*World Sleep Congress, Vancouver, Canada - 2019*
+<br>
+*Sleep DownUnder, Sydney, Australia - 2019*
 9. Insomnia takes effort:  Introducing the Activity and Sleep Impact Diary (ASID)
 <br>
-*World Sleep Congress 2019, Vancouver, British Columbia, Canada*
+*World Sleep Congress, Vancouver, Canada - 2019*
 
 
 ## Awards
 Young Investigator
 <br>
-*Adelaide Sleep Retreat 2017, Adelaide, Australia*
+*Adelaide Sleep Retreat (ASR), Adelaide, Australia - 2017*
+<br>
 <br>
 Best Poster Discussion for Insomnia and Sleep Health
 <br>
-*Sleep DownUnder 2019, Sydney, Australia*
+*Sleep DownUnder, Sydney, Australia - 2019*
 
 
 ## Email
